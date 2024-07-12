@@ -1,0 +1,76 @@
+.reservation-btn {
+  background-color: #06841a !important;
+  border: none !important;
+}
+
+.who-are-we-text {
+  font-size: 24px;
+  line-height: 44px;
+  font-weight: 300;
+}
+
+.library_link {
+  text-decoration: none;
+  color: #06841a;
+}
+
+.comics_img {
+  max-width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact-table {
+  max-width: 50%;
+}
+
+.opening-hours-table {
+  max-width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .opening-hours-table {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .opening-hours-table {
+    max-width: 100%;
+  }
+}
+
+.opening-hours-table .hours {
+  text-align: end;
+}
+
+.monopoly_img {
+  max-width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.how-it-works-text {
+  font-size: 24px;
+  line-height: 44px;
+  font-weight: 300;
+}
+
+.colored-text {
+  color: #06841a;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+}
+
+.socials-icon {
+  max-width: 40px;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

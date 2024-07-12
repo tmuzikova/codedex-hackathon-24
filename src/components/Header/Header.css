@@ -1,0 +1,18 @@
+.navlinks {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: rgb(12, 21, 14) !important;
+}
+
+.nav-link {
+  margin-right: 32px;
+}
+
+.sipnplay-logo {
+  height: 130px;
+  width: auto;
+}
+.navbar {
+  font-family: "Oswald", sans-serif;
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Dice and Slice Night",
+    "date": "15. July 2024",
+    "time": "07:00 pm",
+    "description": "Roll the dice and slice some pizza! Join us for an evening of games and cheesy goodness.",
+    "box_reservation_price": 20.0
+  },
+  {
+    "id": 1,
+    "name": "Meeples and Margaritas",
+    "date": "22. July 2024",
+    "time": "06:30 pm",
+    "description": "Sip on a margarita while playing your favorite board games with friends!",
+    "box_reservation_price": 25.0
+  },
+  {
+    "id": 2,
+    "name": "Catan and Coffee",
+    "date": "30. July 2024",
+    "time": "02:00 pm",
+    "description": "Settle in for an afternoon of Catan and freshly brewed coffee. May the best settler win!",
+    "box_reservation_price": 15.0
+  },
+  {
+    "id": 3,
+    "name": "Pandemic and Pints",
+    "date": "05. August 2024",
+    "time": "07:00 pm",
+    "description": "Can you save the world while enjoying a pint? Join us for an exciting game night.",
+    "box_reservation_price": 22.0
+  },
+  {
+    "id": 4,
+    "name": "Monopoly Madness",
+    "date": "10. August 2024",
+    "time": "04:00 pm",
+    "description": "It's time to get rich or go bankrupt in a night of Monopoly mayhem!",
+    "box_reservation_price": 18.0
+  },
+  {
+    "id": 5,
+    "name": "Chess and Cheers",
+    "date": "15. August 2024",
+    "time": "06:00 pm",
+    "description": "Challenge your friends to a game of chess and toast to the victories and defeats.",
+    "box_reservation_price": 20.0
+  },
+  {
+    "id": 6,
+    "name": "Scrabble Scramble",
+    "date": "20. August 2024",
+    "time": "05:00 pm",
+    "description": "Put your word skills to the test in a fun and competitive Scrabble tournament.",
+    "box_reservation_price": 17.0
+  },
+  {
+    "id": 7,
+    "name": "Ticket to Ride Tournament",
+    "date": "25. August 2024",
+    "time": "03:00 pm",
+    "description": "All aboard for an epic Ticket to Ride tournament with fabulous prizes!",
+    "box_reservation_price": 23.0
+  },
+  {
+    "id": 8,
+    "name": "Clue and Cocktails",
+    "date": "28. August 2024",
+    "time": "07:00 pm",
+    "description": "Solve the mystery while sipping on delicious cocktails. Who's the murderer?",
+    "box_reservation_price": 25.0
+  },
+  {
+    "id": 9,
+    "name": "Exploding Kittens Extravaganza",
+    "date": "31. August 2024",
+    "time": "06:00 pm",
+    "description": "Avoid the exploding kittens and enjoy a night of laughter and strategy.",
+    "box_reservation_price": 18.0
+  }
+]
