@@ -14,9 +14,15 @@ export const Header = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto me-auto justify-content-center flex-grow-1  navlinks">
-              <Link href="/">About</Link>
-              <Link to="/menu">Menu</Link>
-              <Link to="/events">Events</Link>
+              <Link href="/" className="nav-links">
+                About
+              </Link>
+              <Link to="/menu" className="nav-links">
+                Menu
+              </Link>
+              <Link to="/events" className="nav-links">
+                Events
+              </Link>
               <NavDropdown title="See more" id="basic-nav-dropdown">
                 <NavDropdown.Item
                   href="https://docs.google.com/spreadsheets/d/1-TOvwUh-ziCB6QmLYvQlxtXuBd-aGiiO72GWAasby8o/edit?gid=0#gid=0"

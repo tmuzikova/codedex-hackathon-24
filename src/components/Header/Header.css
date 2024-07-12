@@ -9,6 +9,13 @@
   margin-right: 32px;
 }
 
+.nav-links {
+  text-decoration: none;
+  margin-right: 10px;
+  padding-top: 8px;
+  color: #01191d;
+}
+
 .sipnplay-logo {
   height: 130px;
   width: auto;
