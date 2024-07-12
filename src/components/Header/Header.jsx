@@ -1,4 +1,5 @@
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./Header.css";
 import sipnplay from "../../assets/sipnplay.png";
 
@@ -13,7 +14,7 @@ export const Header = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto me-auto justify-content-center flex-grow-1  navlinks">
-              <Nav.Link href="/">About</Nav.Link>
+              <Link href="/">About</Link>
               <Nav.Link href="/menu">Menu</Nav.Link>
               <Nav.Link href="/events">Events</Nav.Link>
               <NavDropdown title="See more" id="basic-nav-dropdown">
