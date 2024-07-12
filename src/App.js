@@ -11,13 +11,12 @@ import { Container } from "react-bootstrap";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Container className="app-content">
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/events" element={<EventCalendar />} />
-
           <Route path="/menu" element={<Menu />} />
         </Routes>
       </Container>
