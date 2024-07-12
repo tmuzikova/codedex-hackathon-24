@@ -30,7 +30,7 @@ The project was made using the following tech stack:
 _______________________________________________________________________________________________
 Lessons learned :) 
 - for the first time, I experienced coding under time pressure (and by myself!) as a full functioning website was needed to be made in less than 24 hours
-- I played with Three.js for the first time (which was super fun but also painful at same time :D)
+- I played with Three.js for the first time (which was super fun but also a bit painful at the same time :D)
 - It is really nice to have a Figma design and follow it during coding (I did not do it and freestyled the design which wasn't the best idea as it was all over the place at the beginning)
 
 _______________________________________________________________________________________________
