@@ -15,8 +15,8 @@ export const Header = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto me-auto justify-content-center flex-grow-1  navlinks">
               <Link href="/">About</Link>
-              <Link href="/menu">Menu</Link>
-              <Link href="/events">Events</Link>
+              <Link to="/menu">Menu</Link>
+              <Link to="/events">Events</Link>
               <NavDropdown title="See more" id="basic-nav-dropdown">
                 <NavDropdown.Item
                   href="https://docs.google.com/spreadsheets/d/1-TOvwUh-ziCB6QmLYvQlxtXuBd-aGiiO72GWAasby8o/edit?gid=0#gid=0"
