@@ -18,7 +18,7 @@ export const LandingPage = () => {
             Slope's first board game cafe is not just any cafe. It's a place
             where you can outwit your friends in a game of Catan while sipping
             on bubble tea and munching on a sandwich, all under one roof. With
-            over 500 games in our
+            over 500 games in our{" "}
             <a
               href="https://docs.google.com/spreadsheets/d/1-TOvwUh-ziCB6QmLYvQlxtXuBd-aGiiO72GWAasby8o/edit?gid=0#gid=0"
               target="_blank"
