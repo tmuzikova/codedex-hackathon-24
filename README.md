@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Sip n' Play Revamped! (project made solo during Codédex Hackathon 07/2024)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+deployed website: https://sipnplay-codedex.netlify.app/
 
-## Available Scripts
+This project was focused on making the existing page of a Boarg Game Cafe a bit more fun, responsive, SEO friendly and easy to use. Now, everything works perfectly for mobile users, the website is a bit simplified (e.g. navbar links) and you can easily and quickly find any needed information. I added some 3D designs to accompany the menu and also made a simple event calendar. I also rebranded the logo to match the 3D vibe of the new website nicely.
 
-In the project directory, you can run:
+ Next steps may include: 
 
-### `npm start`
+ - making the event calendar dynamic, fetching the data from somewhere else rather than simple JSON
+ - creating custom 3D designs to match the menu items perfectly
+ - adding the feedback form they have on the exsiting website
+ - updating the design a bit more :)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+_______________________________________________________________________________________________
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**To run this project on your pc, follow these steps:**
 
-### `npm test`
+1) clone this repo (git clone https://github.com/tmuzikova/codedex-hackathon-24.git)
+2) change the directory: cd codedex-hackathon-24
+3) npm install (to install all needed dependencies)
+4) npm start (to run the app in your browser - open http://localhost:3000)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_______________________________________________________________________________________________
 
-### `npm run build`
+The project was made using the following tech stack:
+- React + JavaScript
+- Bootstrap for styling
+- Three.js for 3D images 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_______________________________________________________________________________________________
+Lessons learned :) 
+- for the first time, I experienced coding under time pressure (and by myself!) as a full functioning website was needed to be made in less than 24 hours
+- I played with Three.js for the first time (which was super fun but also painful at same time :D)
+- It is really nice to have a Figma design and follow it during coding (I did not do it and freestyled the design which wasn't the best idea as it was all over the place at the beginning)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_______________________________________________________________________________________________
+Special thanks goes to the whole Codédex community for making this event happen! 
