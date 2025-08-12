@@ -4,6 +4,7 @@ import sipnplay from "../../assets/sipnplay_comics.png";
 import monopoly from "../../assets/monopoly3D.png";
 import instagram from "../../assets/instagram.png";
 import facebook from "../../assets/facebook.png";
+import { EmbedFrame } from "../Embed/EmbedFrame";
 
 export const LandingPage = () => {
   return (
@@ -190,6 +191,9 @@ export const LandingPage = () => {
             </strong>
           </p>
         </Col>
+      </Row>
+      <Row>
+        <EmbedFrame />
       </Row>
     </Container>
   );
